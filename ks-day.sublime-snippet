@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+{% extends '../../../../layout/club.html' %}
+
+{% block pageTitle %} - Club{% endblock %}
+
+{% block content %}
+<div class="row">
+	<h2></h2>
+	<p>/<a href="{{ siteUrl }}/club/" class="tiny button secondary"></a></p>
+</div>
+{% include '../../../../artists/.html' %}
+{% endblock %}
+]]></content>
+	<tabTrigger>ksday</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

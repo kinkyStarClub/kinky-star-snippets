@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<ul class="small-block-grid-2 medium-block-grid-5">
+		<li><a href="{{ siteUrl }}/club/">
+				<p>WO </p>
+				<h4></h4>
+			</a></li>
+		<li><a href="{{ siteUrl }}/club/">
+				<p>DO </p>
+				<h4></h4>
+			</a></li>
+		<li><a href="{{ siteUrl }}/club/">
+				<p>VR </p>
+				<h4></h4>
+			</a></li>
+		<li><a href="{{ siteUrl }}/club/">
+				<p>ZA </p>
+				<h4></h4>
+			</a></li>
+		<li><a href="{{ siteUrl }}/club/">
+				<p>ZO </p>
+				<h4></h4>
+			</a></li>
+	</ul>
+</div>
+]]></content>
+	<tabTrigger>ks5week</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
