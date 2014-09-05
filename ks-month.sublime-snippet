@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+{% extends '../../../layout/club.html' %}
+
+{% block pageTitle %} - Club{% endblock %}
+
+{% block content %}
+<div class="row">
+	<h2 class="text-center"></h2>
+</div>
+
+{% endblock %}
+]]></content>
+	<tabTrigger>ksmonth</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
