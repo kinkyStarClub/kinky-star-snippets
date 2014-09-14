@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<li>
+	<a href="" class="th">
+		<img data-interchange="[, (small)], [, (medium)]">
+	</a>
+</li>
+]]></content>
+	<tabTrigger>ksthumb</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
